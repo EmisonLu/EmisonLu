@@ -8,10 +8,10 @@
 
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmisonLu&include_all_commits=true&hide=contribs,prs&show_icons=true" height="160"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmisonLu&include_all_commits=true&hide=contribs,prs&show_icons=true" height="150"/>
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmisonLu&hide=HTML&layout=compact" height="160"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmisonLu&hide=HTML&layout=compact" height="150"/>
 </a>
 
